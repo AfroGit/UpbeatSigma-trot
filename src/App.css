@@ -1,5 +1,20 @@
-main {
-  text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+*{box-sizing: border-box;}
+
+
+
+
+.facet{
+  /* controls the logo container */
+  display: flex;
+  align-items: center;
+  margin: 7px;
 }
+
+.Nembo{
+  height: 255px;
+  margin-right: 19%;
+  padding: 15px;
+  /* this css is for the logo */
+  
+}
+

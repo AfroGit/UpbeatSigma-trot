@@ -9,3 +9,5 @@ export default function Logo(){
     </>
     )
 };
+
+// Client requested ample logo size
