@@ -10,4 +10,5 @@ export default function Logo(){
     )
 };
 
-// Client requested ample logo size
+// Client requested ample logo size, top left
+// consider moving logo png to the file tree to enhance site speed.
