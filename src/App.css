@@ -1,7 +1,15 @@
 *{box-sizing: border-box;}
 
 .App {
+  /* Whole app */
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-image: url('https://i.postimg.cc/3NMmPydq/pexels-pixabay-326055.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px; 
 }
 
 
