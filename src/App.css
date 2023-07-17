@@ -40,3 +40,22 @@
 
 
 }
+
+
+.September {
+ /* Screed container */
+  /* border: 1px solid red; */
+  height: 550px;
+  width: 550px;
+  padding: 5px;
+  margin-left: 289px;
+  
+  }
+
+ #Waxx{
+   /* screed paragragh */
+      color: #cc8f72;
+    }
+
+
+h2,h3{color: gold;}
