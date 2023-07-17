@@ -5,7 +5,7 @@ import Profile from './Profile'
 
 export default function App() {
   return (
-    <div>
+    <div className='App'>
       <Logo />
       <Profile />
     </div>
