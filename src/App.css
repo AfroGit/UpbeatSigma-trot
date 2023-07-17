@@ -20,3 +20,13 @@
   
 }
 
+.Banner {
+  /* Top H1 container */
+  height: 175px;
+  width: 75%;
+  border: 1px solid purple;
+  padding: 33px;
+  margin-left: 289px;
+
+
+}
