@@ -8,6 +8,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  /* width: 100%; */
   border-top-left-radius: 12px;
   border-top-right-radius: 12px; 
 }
@@ -66,3 +67,15 @@ h1{
 
 
 h2,h3{color: gold;}
+
+
+.Guu { 
+  /* controls footer */
+      background-color: #949392;
+      color: floralwhite;
+      border: 1px solid black;
+      border-radius: 3px;
+      height: auto;
+      width: 100%;
+      margin: 5px;
+    }
